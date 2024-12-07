@@ -49,7 +49,7 @@
 - 标绿的部分表示准确的回答或其他模型没有注意到的细节
 - 标蓝的部分表示具有模型特色的输出或合理的理解
 
-[test_excel](./test_excel.xlsx)
+测评详情见：[test_excel](./test_excel.xlsx)
 
 ## 测评结论
 
